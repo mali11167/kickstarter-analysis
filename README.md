@@ -20,13 +20,14 @@
 ## **Analysis of Outcomes Based on Launch Date**
     -The data showed that the number of successful shows were more then failed. In the begining if the year the outcome was low but in mid year and summer time it took
     an uptick on the number of successful shows.Then again by fall time it started to go down. So I think summer time was the most successful time for the campaign.
-    ![Theater_Outcome_vs_Launch](https://user-images.githubusercontent.com/91965321/138536053-6355f49a-ae66-4132-8b47-07a2e122f2e6.png)
-
+    ![Theater_Outcome_vs_Launch](https://user-images.githubusercontent.com/91965321/138536111-6f1695c7-5118-41e9-8c1d-62736e3321a7.png
     
 
 ## **Analysis of Outcomes Based on Goals**
     -The data analysis in regards to outcome based on goals show that the number of failed shows between the range of $15000-$34999 were high as compared to successful. 
     The percentage of successful is less than as compared to the percentage of failed.
+    ![Outcome_vs_goals](https://user-images.githubusercontent.com/91965321/138536095-17a37e33-efc5-499f-98b1-86092e978306.png)
+
    
 
 
