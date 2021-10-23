@@ -20,7 +20,7 @@
 ## **Analysis of Outcomes Based on Launch Date**
     -The data showed that the number of successful shows were more then failed. In the begining if the year the outcome was low but in mid year and summer time it took
     an uptick on the number of successful shows.Then again by fall time it started to go down. So I think summer time was the most successful time for the campaign.
-    ![Theater_Outcome_vs_Launch](https://user-images.githubusercontent.com/91965321/138536111-6f1695c7-5118-41e9-8c1d-62736e3321a7.png
+    ![](Theater_Outcome_vs_Launch.png)
     
 
 ## **Analysis of Outcomes Based on Goals**
