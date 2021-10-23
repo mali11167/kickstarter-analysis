@@ -8,7 +8,7 @@
 
     Louise wants to see how different campaigns progressed in regard to their Launch Date and their Funding goals
 
-## **Analysis and Challenges**
+### **Analysis and Challenges**
   
    For the first analysis I created a Year column and used a fuction to generate Year from the launched date column. I then created a Pivot table filtering it 
    to parent category and years. I created a Pivot table and a Pivot chart to see the relation between outcome and launch months. I did not face any challenge in this 
@@ -17,14 +17,16 @@
    in relation to that the number of successful,cancelled and failed and their respective percentages. I did had hard time using the countifs statement to calculate the 
    data but one of the TA were able to help me solve that. 
 
-## **Analysis of Outcomes Based on Launch Date**
-    The data showed that the number of successful shows were more then failed. In the begining if the year the outcome was low but in mid year and summer time it took
-    an uptick on the number of successful shows.Then again by fall time it started to go down. So I think summer time was the most successful time for the campaign.
-    ![image](https://user-images.githubusercontent.com/91965321/138553491-72ead863-d965-4b0d-bf07-58602f825820.png)
+### **Analysis of Outcomes Based on Launch Date**
+    The data showed that the number of successful shows were more then failed.
+    In the begining if the year the outcome was low but in mid year and summer time it took
+    an uptick on the number of successful shows.Then again by fall time it started to go down. 
+    So I think summer time was the most successful time for the campaign.
+    ![](images/Theater_Outcome_vs_Launch)
 
     
 
-## **Analysis of Outcomes Based on Goals**
+### **Analysis of Outcomes Based on Goals**
     The data analysis in regards to outcome based on goals show that the number of failed shows between the range of $15000-$34999 were high as compared to successful. 
     The percentage of successful is less than as compared to the percentage of failed.
     ![Outcome_vs_goals](https://user-images.githubusercontent.com/91965321/138536095-17a37e33-efc5-499f-98b1-86092e978306.png)
@@ -32,7 +34,7 @@
    
 
 
-## **Results**
+### **Results**
 
  The conclusion I can draw from Outcome based on launch date that the mid time of the year is the best time to launch the play as the data shows that it was the most successful
   during that time 
