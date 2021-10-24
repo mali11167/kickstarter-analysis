@@ -27,8 +27,7 @@
     In the begining if the year the outcome was low but in mid year and summer time it took
     an uptick on the number of successful shows.Then again by fall time it started to go down. 
     So I think summer time was the most successful time for the campaign.
-    https://github.com/mali11167/kickstarter-analysis/blob/main/Theater_Outcome_vs_Launch.png
-
+    ![](Theater_Outcome_vs_Launch.png)
     
 
 ### **Analysis of Outcomes Based on Goals**
