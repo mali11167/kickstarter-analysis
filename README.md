@@ -32,6 +32,15 @@ The percentage of successful is less than as compared to the percentage of faile
 
 ![image_2](https://github.com/mali11167/kickstarter-analysis/blob/main/Outcome_vs_goals.png)
 
+## Limitations of this dataset
+I don't find any limitation to the dataset as it is a very detailed analysis for Louise to figure out 
+what approach would be best for her to launch her play successfully.
+
+## Possible tables and/or graphs
+We can do table analysis based on goals vs pledge filtering it to time of the year. 
+It could be done in the form of stacked chart or column chart.
+
+
 ## Results
 The conclusion I can draw from Outcome based on launch date that the mid time of the year is the best time to launch the play as the data shows that it was the most successful
 during that time 
