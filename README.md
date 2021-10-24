@@ -1,5 +1,6 @@
-##** kickstarter-analysis**
-## **Overview of Project**
+## Kickstarter-Analysis
+
+## Overview of Project
    
    Louise who is an upcoming writer wants to start a fundraising campaign to help fund her first play "Fever'. Her budget is $10,000. We used Excel to help her 
    organie and analyze the crowd funding datato see if their are any specifics to make her project successful.
