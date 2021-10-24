@@ -9,19 +9,18 @@
 
     Louise wants to see how different campaigns progressed in regard to their Launch Date and their Funding goals
 
-### **Analysis and Challenges**
-  
-   For the first analysis I created a Year column and used a fuction to generate Year from the launched date column.
-   I then created a Pivot table filtering it 
-   to parent category and years. I created a Pivot table and a Pivot chart to see the relation between outcome and launch months. 
-   I did not face any challenge in this part of the assignment.
-  - Second part of the assignment was to create a new spreadsheet which is outcomes based on goals. 
-  - In this part I created a sheet specifying the ranges of goals and
-   in relation to that the number of successful,cancelled and failed and their respective percentages.
-   I did had hard time using the countifs statement to calculate the 
-   data but one of the TA were able to help me solve that. 
+Analysis and Challenges
+For the first analysis I created a Year column and used a fuction to generate Year from the launched date column.
+ I then created a Pivot table filtering it 
+ to parent category and years. I created a Pivot table and a Pivot chart to see the relation between outcome and launch months. 
+ I did not face any challenge in this part of the assignment.
+ - Second part of the assignment was to create a new spreadsheet which is outcomes based on goals. 
+ - In this part I created a sheet specifying the ranges of goals and
+ in relation to that the number of successful,cancelled and failed and their respective percentages.
+ I did had hard time using the countifs statement to calculate the 
+ data but one of the TA were able to help me solve that. 
 
-### **Analysis of Outcomes Based on Launch Date**
+Analysis of Outcomes Based on Launch Date
    
     -The data showed that the number of successful shows were more then failed.
     In the begining if the year the outcome was low but in mid year and summer time it took
