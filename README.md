@@ -29,7 +29,8 @@ So I think summer time was the most successful time for the campaign.
 The data analysis in regards to outcome based on goals show that the number of failed shows between 
 the range of $15000-$34999 were high as compared to successful. 
 The percentage of successful is less than as compared to the percentage of failed.
-![](Outcome_vs_Goals.png)
+
+![image_2](https://github.com/mali11167/kickstarter-analysis/blob/main/Outcome_vs_goals.png)
 
 ## Results
 The conclusion I can draw from Outcome based on launch date that the mid time of the year is the best time to launch the play as the data shows that it was the most successful
