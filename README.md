@@ -27,7 +27,7 @@
     In the begining if the year the outcome was low but in mid year and summer time it took
     an uptick on the number of successful shows.Then again by fall time it started to go down. 
     So I think summer time was the most successful time for the campaign.
-    ![](images/Theater_Outcome_vs_Launch.png)
+    ![](Theater_Outcome_vs_Launch.png)
 
     
 
@@ -36,7 +36,7 @@
     -The data analysis in regards to outcome based on goals show that the number of failed shows between 
     the range of $15000-$34999 were high as compared to successful. 
     The percentage of successful is less than as compared to the percentage of failed.
-   ![](images/Outcome_vs_Goals.png)
+    ![](Outcome_vs_Goals.png)
 
    
 
